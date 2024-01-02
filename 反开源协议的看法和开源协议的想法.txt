@@ -1,0 +1,26 @@
+对于遵守开源协议的判断
+with obey GPL license（the GPL License of this article is not only GPL,but its "friend" and that RED ）,that some thinking things
+1人对未来不具有预见性，所以他们无法为未来决断
+1people can not see the thing future will happen,so they don't know for what to need for detail.
+2人类智力不具有完美性，不足以做出判断
+2people's IQ can't be perfect, can't chose the select by ability
+3我认为可以遵守的协约只能是可退回协议，这样才不至于走入绝路
+3I think the obeylicense we can use for naturely must be a license that we can return to the situation that no effect has been made.
+综上不支持以签署条约为主的约定协议
+for the fronted points, don't support that by make license's active about their's promise
+没必要遵守任何协约，如果世界真要守约我们根本反抗不了。我们应不怕任何势力以我们承诺的约定来要挟我们。#～而个人的约定让他人信任是可以通过长期接触来解决的。
+no must for obey any obeylicense,if world need we obey we can't refuse.we need dont affraid any organize uses our promission to make we do thing.#~and the one person's promise want to let otherone to believe can by long time live-together to make.
+---
+关于开源协议的退出，认为如果开源协议一开始没设定如何退出，那就不知道如何退出了。看一开始设定。
+about how to quit GPL license,think that if GPL license don't write how to quit in beginning,that no understand how to quit.see the begin's setting
+
+注：我不是说讨厌开源协议（我并不懂开源协议这玩意干嘛），又或者追求独立情感的心理情结。而且也有人追求以弱者之躯靠着开源协议大杀四方大混蛋的人吧（这样看着也很帅，然后你得知道大家都开心就好。不是被人用不是比赛的比赛打败则不会窝火，所以也是可以接受的。），人也应该懂点开源协议的东西的使用毕竟一般总有落魄的时候。只是聊聊摆脱开源协议心理影响的看法
+
+ps:I don't mean i hate GPL license(i dont know GPL license is for which),or the emotion about that love the thing is me made.and there have the person agree by wasted body by GPL license to defeat anywhere badly enemy,isn't?(such way look great ,and need to know our all happy is anygood.isn't been ones use not match'match to deffect that will not angry,so is good also.),and one man is also need to know some GPL-thing 's use-way because anyone have the worsetime.just saysay get rid of GPL license's stranged bad feeling effect's those looking
+
+===
+一些新的事，我发现我们玩游戏，就像我们破译作者给的密码来获得游戏故事体验一样，所以我们玩游戏的速度是肯定不如游戏制作者的速度的，而且我认为可能我们需要靠获得游戏制作者的大脑（如果大脑存储思维）来解决这事。这方面{相关联想}，我发现如果一个人的思维总是对他人保密，那么我们为了<他在想什么>、<我们聊天快乐一下>，不停做事。可能我们的思维不对他人保密，那么这个世界才会没有疯狂的聊天和疯狂为他人活动，{反正就是}也许开原协议才能拯救世界吧
+something new ：i find if we play game ,it seems we deal the password and by this to get ..feeling ,so we can't get the speed that gamemaker's makegame.and i think maybe we need to get the brain(if it control IQ) of gamemakers to resolve this situation. that side ,i find if always one is passworded for the another one , what he think、 how that we happy by chat ,do do do ,come on...,.maybe our is no anything passworded for otherone ,the word can be no noisy,no work-need.isn't it,the GPL make the world to happy.what a great
+
+
+
