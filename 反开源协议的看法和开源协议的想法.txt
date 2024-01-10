@@ -21,6 +21,7 @@ ps:I don't mean i hate GPL license(i dont know GPL license is for which),or the 
 ===
 一些新的事，我发现我们玩游戏，就像我们破译作者给的密码来获得游戏故事体验一样，所以我们玩游戏的速度是肯定不如游戏制作者的速度的，而且我认为可能我们需要靠获得游戏制作者的大脑（如果大脑存储思维）来解决这事。这方面{相关联想}，我发现如果一个人的思维总是对他人保密，那么我们为了<他在想什么>、<我们聊天快乐一下>，不停做事。可能我们的思维不对他人保密，那么这个世界才会没有疯狂的聊天和疯狂为他人活动，{反正就是}也许开原协议才能拯救世界吧
 something new ：i find if we play game ,it seems we deal the password and by this to get ..feeling ,so we can't get the speed that gamemaker's makegame.and i think maybe we need to get the brain(if it control IQ) of gamemakers to resolve this situation. that side ,i find if always one is passworded for the another one , what he think、 how that we happy by chat ,do do do ,come on...,.maybe our is no anything passworded for otherone ,the word can be no noisy,no work-need.isn't it,the GPL make the world to happy.what a great
-
+既然开原协议基于条约，那么添加一个关于退出开源协议的条约，靠这样应该就能让人退出开源协议状态了。
+if it run by license,add a new point of license to quit GPL,and by use that,we can get out of the GPL status.
 
 
